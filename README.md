@@ -1,2 +1,2 @@
-# test_ibm
+# test_ibm for learning
 Test from IBM course
